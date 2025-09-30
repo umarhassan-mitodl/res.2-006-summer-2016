@@ -1,0 +1,36 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 1b7f2fb3-e269-5d61-84a3-bf3e7da02534
+  name: Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: fbebbb7e-85f5-545a-6cf5-d0e232504108
+  name: Workshop Schedule
+  pageRef: /pages/syllabus/workshop-schedule
+  parent: 1b7f2fb3-e269-5d61-84a3-bf3e7da02534
+  weight: 20
+- identifier: bec74b43-2d16-b017-73ec-f480283c04c4
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: be7b0d4e-8aa5-fbd3-d810-23d3381d5f65
+  name: Applications of Camera Technology
+  pageRef: /pages/applications-of-camera-technology
+  weight: 40
+- identifier: af68e0ed-0ea8-0df5-d1e6-013abae8e453
+  name: Digital Cameras
+  pageRef: /pages/digital-cameras
+  weight: 50
+- identifier: a96a1185-4d73-3e8f-0a13-db3e104ba10d
+  name: Image Processing
+  pageRef: /pages/image-processing
+  weight: 60
+- identifier: c67fc51e-79d4-d91b-b9aa-7a48945edead
+  name: Host Your Own Workshop
+  pageRef: /pages/host-your-own-workshop
+  weight: 70
+- identifier: c7c9456a-c26c-6dc0-0027-638fc943dc52
+  name: Image Gallery
+  pageRef: /pages/image-gallery/
+  weight: 80
